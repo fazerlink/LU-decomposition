@@ -23,6 +23,7 @@
     <ProjectGuid>{8AED0EBD-030F-4547-A3F8-A8818A5D7D2E}</ProjectGuid>
     <RootNamespace>LUразложение</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>LU decomposition</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

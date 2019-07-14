@@ -1,3 +1,10 @@
-﻿Main.obj : error LNK2005: "int const n" (?n@@3HB) уже определен в LU_decompozition.obj
+﻿  LU_decompozition.cpp
+  Main.cpp
+  Print.cpp
+  Norma.cpp
+  inaccuracy.cpp
+  invertible.cpp
+  Создание кода...
+Main.obj : error LNK2005: "int const n" (?n@@3HB) уже определен в LU_decompozition.obj
 Print.obj : error LNK2005: "int const n" (?n@@3HB) уже определен в LU_decompozition.obj
-C:\Users\Gleb\source\repos\LU разложение\Debug\LU разложение.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
+C:\Users\Gleb\source\repos\ready\LUdecomposition\Debug\LU разложение.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
